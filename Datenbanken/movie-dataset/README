@@ -1,0 +1,7 @@
+Das Film-Datenset enthält Informationen über einige Filme, deren Genre sowie die Schauspieler, die mitgewirkt haben. Die Informationen sind bei weitem nicht vollständig.
+
+Die Rohdaten liegen in den Textdateien movies.txt, cast.txt und genres.txt vor. Um die sqlite3-Datenbank neu daraus zu erzeugen, kann zuerst die Tabellenstruktur mittels movies.sql erstellt werden. Danach werden die Daten über die 3 Python-Skripte importiert. Darauf achten, zuerst importmovies.py auszuführen!
+
+Pascal Schuppli, 7.3.2012
+
+
