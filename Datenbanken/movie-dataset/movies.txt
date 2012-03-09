@@ -1,0 +1,37 @@
+Safe House,2012,R,Daniel Espinosa,0
+The Hunger Games,2012,PG-13,Gary Ross,0
+Lord of the Flies,1990,R,Harry Hook,0
+Lord of the Flies,1963,TV_14,Peter Brook,0
+Lord of the Rings: The Fellowship of the Ring,2001,PG-13,Peter Jackson,0
+The Goonies,1985,TV_14,Richard Donner,0
+Stand by Me,1986,R,Rob Reiner,93
+Sneakers,1992,PG-13,Phil Alden Robinson,126
+The Horse Whisperer,1998,PG-13,Robert Redford,170
+17 Again,2009,PG-13,Burr Steers,102
+The Big Lebowsky,1998,R,Joel & Ethan Coen,117
+Alabama Moon,2009,PG,Tim McCanlies,99
+Star Trek,2009,PG-13,J.J.Abrams,127
+Evan Almighty,2007,PG,Tom Shadyac,96
+The Shawshank Redemtion,1994,R,Frank Darabont,142 
+The Power of One,1992,PG-13,John G. Avildsen,127
+Casino Royale,2006,PG-13,Martin Campbell,144
+The Mask of Zorro,1998,PG-13,Martin Campbell,136
+Goldeneye,1995,PG-13,Martin Campbell,130
+Jumper,2008,PG-13,Doug Liman,88
+Star Wars: Episode II,2002,PG,George Lucas,142
+Leon: The Professional,1994,R,Luc Besson,110
+Ronin,1998,R,John Frankenheimer,122
+The Fifth Element,1997,PG-13,Luc Besson,126
+Armageddon,1998,PG-13,Michael Bay,151
+Die Hard: With a Vengeance,1995,R,John McTiernan,131
+Unbreakable,2000,PG-13,M. Night Shyamalan,106
+The Village,2004,PG-13,M. Night Shyamalan,108
+Finding Neverland,2004,PG-13,Marc Forster,106
+Pirates of the Caribbean,2003,PG-13,Gore Verbinski,143
+What's Eating Gilbert Grape,1993,PG-13,Lasse Hallstroem,118
+Inception,2010,PG-13,Christopher Nolan,148
+Titanic,1997,PG-13,James Cameron,194
+Terminator 2: Judgment Day,1991,R,James Cameron,137
+American History X,1998,R,Tony Kaye,119
+Kindergarten Cop,1990,PG-13,Ivan Reitman,111
+Last Action Hero,1993,PG-13,John McTiernan,130

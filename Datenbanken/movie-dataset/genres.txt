@@ -1,0 +1,102 @@
+Safe House,Action
+Safe House,Crime
+Safe House,Mystery
+The Hunger Games,Action
+The Hunger Games,Drama
+The Hunger Games,Sci-Fi
+Lord of the Flies,Adventure
+Lord of the Flies,Drama
+Lord of the Flies,Thriller
+Lord of the Rings,Action
+Lord of the Rings,Adventure
+Lord of the Rings,Fantasy
+The Goonies,Adventure
+The Goonies,Comedy
+The Goonies,Family
+Stand By Me,Adventure
+Stand By Me,Drama
+Sneakers,Comedy
+Sneakers,Crime
+Sneakers,Drama
+The Horse Whisperer,Drama
+The Horse Whisperer,Romance
+The Horse Whisperer,Western
+17 Again,Comedy
+17 Again,Drama
+17 Again,Fantasy
+The Big Lebowsky,Comedy
+The Big Lebowsky,Crime
+Alabama Moon,Drama
+Alabama Moon,Family
+Star Trek,Action
+Star Trek,Adventure
+Star Trek,Sci-Fi
+Evan Almighty,Comedy
+Evan Almighty,Family
+Evan Almighty,Fantasy
+The Shawshank Redemption,Crime
+The Shawshank Redemption,Drama
+The Power of One,Drama
+Casino Royale,Action
+Casino Royale,Adventure
+Casino Royale,Crime
+The Mask of Zorro,Action
+The Mask of Zorro,Romance
+The Mask of Zorro,Adventure
+Goldeneye,Action
+Goldeneye,Adventure
+Goldeneye,Thriller
+Jumper,Action
+Jumper,Adventure
+Jumper,Sci-Fi
+Star Wars: Episode II,Action
+Star Wars: Episode II,Fantasy
+Star Wars: Episode II,Adventure
+Star Wars: Episode II,Sci-Fi
+Leon: The Professional,Crime
+Leon: The Professional,Drama
+Leon: The Professional,Thriller
+Ronin,Action
+Ronin,Crime
+Ronin,Drama
+The Fifth Element,Action
+The Fifth Element,Sci-Fi
+The Fifth Element,Adventure
+Armageddon,Action
+Armageddon,Adventure
+Armageddon,Sci-Fi
+Die Hard: With a Vengeance,Action
+Die Hard: With a Vengeance,Crime
+Die Hard: With a Vengeance,Thriller
+Unbreakable,Drama
+Unbreakable,Fantasy
+Unbrekable,Mystery
+The Village,Drama
+The Village,Mystery
+The Village,Thriller
+Finding Neverland,Biography
+Finding Neverland,Drama
+Finding Neverland,Family
+Pirates of the Caribbean,Action
+Pirates of the Caribbean,Adventure
+Pirates of the Caribbean,Fantasy
+What's Eating Gilbert Grape,Drama
+What's Eating Gilbert Grape,Romance
+Inception,Action
+Inception,Adventure
+Inception,Sci-Fi
+Titanic,Adventure
+Titanic,Drama
+Titanic,Romance
+Titanic,History
+Terminator 2: Judgment Day,Action
+Terminator 2: Judgment Day,Sci-Fi
+Terminator 2: Judgment Day,Thriller
+American History X,Crime
+American History X,Drama
+Kindergarten Cop,Action
+Kindergarten Cop,Comedy
+Kindergarten Cop,Crime
+Last Action Hero,Action
+Last Action Hero,Comedy
+Last Action Hero,Adventure

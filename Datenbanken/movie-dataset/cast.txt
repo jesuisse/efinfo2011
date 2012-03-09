@@ -1,0 +1,138 @@
+Denzel Washington,Safe House,Tobin Frost
+Ryan Reynolds,Safe House,Matt Weston
+Vera Farmiga,Safe House,Catherine Linklater
+Jennifer Lawrence,The Hunger Games,Katniss Everdeen
+Josh Hutcherson,The Hunger Games,Peeta Mellark
+Liam Hemsworth,The Hunger Games,Gale Hawthorne
+Balthazar Getty,Lord of the Flies,Ralph
+Chris Furrh,Lord of the Flies,Jack Merridew
+Danuel Pipoly,Lord of the Flies,Piggy
+James Badge Dale,Lord of the Flies,Simon
+James Aubrey,Lord of the Flies,Ralph
+Tom Chapin,Lord of the Flies,Jack
+Hugh Edwards,Lord of the Flies,Piggy
+Roger Elwin,Lord of the Flies,Roger
+Tom Gaman,Lord of the Flies,Simon
+Elijah Wood,Lord of the Rings,Frodo Baggins
+Sean Astin,Lord of the Rings,Samwise 'Sam' Gamgee
+Orlando Bloom,Lord of the Rings,Legolas Greenleaf
+Christopher Lee,Lord of the Rings,Saruman
+Sean Astin,The Goonies,Mikey
+Corey Feldman,The Goonies,Mouth
+Corey Feldman,Stand by Me,Teddy Duchamp
+River Phoenix,Stand by Me,Chris Chambers
+Wil Wheaton,Stand by Me,Gordie Lachance
+Kiefer Sutherland,Stand by Me,Ace Merill
+Robert Redford,Sneakers,Martin 'Marty' Bishop
+Sidney Poitier,Sneakers,Donald Crease
+Dan Aykroyd,Sneakers,Darren 'Mother' Roskow
+River Phoenix,Sneakers,Carl Arbogast
+Robert Redford,The Horse Whisperer,Tom Booker
+Kristin Scott Thomas,The Horse Whisperer,Annie MacLean
+Sam Neill,The Horse Whisperer,Robert MacLean
+Zac Efron,17 Again,Mike O'Donnell
+Leslie Mann,17 Again,Scarlet
+Thomas Lennon,17 Again,Ned Gold
+Matthew Perry,17 Again,Mike O'Donnell (Adult)
+Tyler Steelman,17 Again,Ned Gold (Teen)
+Allison Miller,17 Again,Scarlet (Teen)
+Jeff Bridges,The Big Lebowsky,Jeffrey Lebowsky - The Dude
+John Goodman,The Big Lebowsky,Walter Sobchak
+Julianne Moore,The Big Lebowsky,Maude Lebowsky
+Steve Buscemi,The Big Lebowsky,Theodore Donald 'Donny' Kerabatsos
+Jimmy Bennet,Alabama Moon,Moon Blake
+Gabriel Basso,Alabama Moon,Hal
+Uriah Shelton,Alabama Moon,Kit
+John Goodman,Alabama Moon,Mr Wellington
+Chris Pine,Star Trek,Kirk
+Zachary Quinto,Star Trek,Spock
+Leonard Nimoy,Star Trek,Spock Prime
+Eric Bana,Star Trek,Nero
+Jimmy Bennet,Star Trek,Young Kirk
+Steve Carell,Evan Almighty,Evan Baxter
+Morgan Freeman,Evan Almighty,God
+Jimmy Bennet,Evan Almighty,Ryan Baxter
+John Goodman,Evan Almighty,Congressman Lang
+Tim Robbins,The Shawshank Redemption,Andy Dufresne
+Morgan Freeman,The Shawshank Redemption,Ellis Boyd 'Red' Redding
+Bob Gunton,The Shawshank Redemption,Warden Norton
+Nigel Ivy,The Power of One,P.K. (Newborn)
+Brendan Deary,The Power of One,P.K. (Infant)
+Guy Witcher,The Power of One,P.K (Age 7)
+Simon Fenton,The Power of One,P.K. (Age 12)
+Stephen Dorff,The Power of One,P.K. (Age 18)
+Daniel Craig,The Power of One,Sgt. Botha
+Armin Mueller-Stahl,The Power of One,Doc
+Morgan Freeman,The Power of One,Geel Piet
+Daniel Craig,Casino Royale,James Bond
+Eva Green,Casino Royale,Vesper Lynd
+Judi Dench,Casino Royale,M
+Jeffrey Wright,Casino Royale,Felix Leiter
+Antonio Banderas,The Mask of Zorro,Zorro
+Anthony Hopkins,The Mask of Zorro,Zorro
+Catherine Zeta-Jones,The Mask of Zorro,Elena Montero/Murrieta
+Pierce Brosnan,Goldeneye,James Bond
+Sean Bean,Goldeneye,Alex Trevelyan
+Judi Dench,Goldeneye,M
+Desmond Llewelyn,Goldeneye,Q
+Hayden Christensen,Jumper,David Rice
+Jamie Bell,Jumper,Griffin
+Samuel L. Jackson,Jumper,Roland
+Hayden Christensen,Star Wars: Episode II,Anakin Skywalker
+Ewan McGregor,Star Wars: Episode II,Obi-Wan Kenobi
+Natalie Portman,Star Wars: Episode II,Padme
+Christopher Lee,Star Wars: Episode II,Count Dooku
+Samuel L. Jackson,Star Wars: Episode II,Mace Windu
+Jean Reno,Leon: The Professional,Leon
+Natalie Portman,Leon: The Professional,Mathilda
+Robert De Niro,Ronin,Sam
+Jean Reno,Ronin,Vincent
+Sean Bean,Ronin,Spence
+Michael Lonsdale,Ronin,Jean-Pierre
+Bruce Willis,The Fifth Element,Korben Dallas
+Milla Jovovich,The Fifth Element,Leeloo
+Chris Tucker,The Fifth Element,Ruby Rhod
+Luke Perry,The Fifth Element,Billy
+Bruce Willis,Armageddon,Harry Stamper
+Billy Bob Thornton,Armageddon,Dan Truman
+Ben Affleck,Armageddon,A.J. Frost
+Liv Tyler,Armageddon,Grace Stamper
+Steve Buscemi,Armageddon,Rockhound
+Owen Wilson,Armageddon,Oscar Choi
+Bruce Willis,Die Hard: With a Vengeance,John McClane
+Jeremy Irons,Die Hard: With a Vengeance,Simon Gruber
+Samuel L. Jackson,Die Hard: With a Vengeance,Zeus Carver
+Bruce Willis,Unbreakable,David Dunn
+Samuel L. Jackson,Unbreakable,Elijah Price
+Joaquin Phoenix,The Village,Lucius Hunt
+William Hurt,The Village,Edward Walker
+Sigourney Weaver,The Village,Alice Hunt
+Johnny Depp,Finding Neverland,Sir James Matthew Barrie
+Kate Winslet,Finding Neverland,Sylvia Llwelyn Davies
+Dustin Hoffman,Finding Neverland,Charles Frohman
+Johnny Depp,Pirates of the Carribean,Jack Sparrow
+Orlando Bloom,Pirates of the Caribbean,Will Turner
+Keira Knightley,Pirates of the Caribbean,Elizabeth Swann
+Johnny Depp,What's Eating Gilbert Grape,Gilbert Grape
+Leonardo DiCaprio,What's Eating Gilbert Grape,Arnie Grape
+Juliette Lewis,What's Eating Gilbert Grape,Becky
+Leonardo DiCaprio,Inception,Cobb
+Joseph Gordon-Levitt,Inception,Arthur
+Ellen Page,Inception,Ariadne
+Leonardo DiCaprio,Titanic,Jack Dawson
+Kate Winslet,Titanic,Rose DeWitt Bukater
+Bill Paxton,Titanic,Brock Lovett
+Arnold Schwarzenegger,Terminator 2: Judgment Day,The Terminator
+Linda Hamilton,Terminator 2: Judgment Day,Sarah Conner
+Edward Furlong,Terminator 2: Judgment Day,John Connor
+Robert Patrick,Terminator 2: Judgment Day,T-1000
+Edward Norton,American History X,Derek Vinyard
+Edward Furlong,American History X,Danny Vinyard
+Arnold Schwarzenegger,Kindergarten Cop,Detective John Kimble
+Linda Hunt,Kindergarten Cop,Miss Schlowski
+Carrol Baker,Kindergarten Cop,Eleanor Crisp
+Arnold Schwarzenegger,Last Action Hero,Jack Slater
+F. Murray Abraham,Last Action Hero,John Practice
+Austin O'Brien,Last Action Hero,Danny Madigan
+Charles Dance,Last Action Hero,Benedict
+Anthony Quinn,Last Action Hero,Tony Vivaldi
