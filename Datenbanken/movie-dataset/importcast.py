@@ -11,7 +11,7 @@ for line in f:
 
     for result in c.fetchall():
         movieid = result[0]
-        c.execute("insert into cast (movieid,actor,impersonated) values (?, ?, ?)", (movieid,actor,impersonated))
+        c.execute("insert into moviecast (movieid,actor,impersonated) values (?, ?, ?)", (movieid,actor,impersonated))
      
 
 conn.commit()

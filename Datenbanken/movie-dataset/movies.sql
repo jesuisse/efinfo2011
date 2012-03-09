@@ -13,7 +13,7 @@ CREATE TABLE genre (
        FOREIGN KEY(movieid) REFERENCES movies(id)
 );
 
-CREATE TABLE cast (       
+CREATE TABLE moviecast (
        movieid INTEGER,
        actor VARCHAR(64),
        impersonated VARCHAR(64),
