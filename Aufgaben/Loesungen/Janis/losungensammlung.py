@@ -25,7 +25,7 @@ class CDSammlung(object):
     def addCD(self, cd):
         """Nimmt cd (muss ein cd-Objekt referenzieren) in die Sammlung auf"""
         # pass durch korrekten Code ersetzen!
-        self.MyCDsappend(cd)
+        self.MyCDs.append(cd)
         
 
     def findArtistOfAlbum(self, album):
