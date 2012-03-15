@@ -20,20 +20,18 @@ class CDSammlung(object):
     def __init__(self):
         """Erzeugt eine zu Beginn leere CD-Sammlung."""
         # pass durch korrekten Code ersetzen!
-        self.MyCDs= []
+        pass
 
     def addCD(self, cd):
         """Nimmt cd (muss ein cd-Objekt referenzieren) in die Sammlung auf"""
         # pass durch korrekten Code ersetzen!
-        self.MyCDsappend(cd)
+        pass
         
 
     def findArtistOfAlbum(self, album):
         """Findet in der CD-Sammlung den Kuenstler zu einem bestimmten Album"""
         # return '' durch korrekten Code ersetzen!'
-        for cd in self.MyCDs:
-            if cd.album == album:
-                return cd.artist
+        return 
         
         
 
