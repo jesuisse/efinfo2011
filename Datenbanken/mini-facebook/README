@@ -1,0 +1,12 @@
+
+Datenbank aus facebook.sql erstellen:
+
+$ sqlite3 facebook.db
+sqlite> .read facebook.sql
+sqlite> .tables
+person status sindBefreundet wallposts
+sqlite> .exit
+$
+
+
+ 
