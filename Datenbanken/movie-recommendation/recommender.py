@@ -4,7 +4,7 @@ import sqlite3
 import math
 
 # MovieLens-Datenbank
-db = connect("ml.db")
+db = sqlite3.connect("ml.db")
 
 
 def estimateMovieRating(userid, movieid):
