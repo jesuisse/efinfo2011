@@ -7,7 +7,7 @@ print "Bitte beachte, dass zuerst clientREAD mit dem Server verbunden werden mus
 print "Viel Spass beim Chatten"
 nachricht = raw_input("Nachricht: ")
 
-while True
+while True:
 	nachricht = raw_input("--> ")
 	s.sendto(nachricht, (ip, 50000))
 
