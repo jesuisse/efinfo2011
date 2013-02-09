@@ -1,4 +1,7 @@
-﻿import pprint
+﻿import sys
+sys.path.append("../easyparser")
+
+import pprint
 
 from recursivedescent import Terminal, Nonterminal, Action, RecursiveDescentParser
 

@@ -1,4 +1,5 @@
-﻿import pprint
+﻿import sys
+sys.path.append("../easyparser")
 
 from recursivedescent import Terminal, Nonterminal, Action, RecursiveDescentParser
 
@@ -8,19 +9,38 @@ nn = Nonterminal("Nomen")
 np = Nonterminal("Nominalphrase")
 vtr = Nonterminal("Transitives Verb")
 adj = Nonterminal("Adjektiv")
-stop = Nonterminal("Quit")
 
 # Definiert eine Grammatik, welche Sätze wie "Das alte Haus ist ein Ort" oder
 # "Der Kiesweg ist ein Ort" parsen kann.
-s >> np + vtr + np | stop
-np >> art + nn | art + adj + nn
+s >> np + vtr + np 
+np >> art + nn 
 vtr >> Terminal('ist')
-stop >> Terminal("quit") | Terminal("exit") | Terminal("ende")
 art >> Terminal("der") | Terminal("die") | Terminal("das") | Terminal("ein") | Terminal("eine")
 nn >> Terminal("haus") | Terminal("kiesweg") | Terminal("raum") | Terminal("ort")
-adj >> Terminal("alte") | Terminal("breite")
 
 p = RecursiveDescentParser(s)
+
+def s_action(np1, verb, np2):
+    if np2 == 'raum':
+        np2 = 'ort'
+    if verb == 'ist':
+        return [np2, np1]
+    else:
+        raise ValueError("Kann keinen miniprolog-Fakt erzeugen")
+    
+def vtr_action(verb):
+    return verb
+
+def np_action(artikel, nomen):
+    return nomen
+
+def nn_action(nomen):
+    return nomen
+
+p.setParseAction(np, np_action)
+p.setParseAction(nn, nn_action)
+p.setParseAction(vtr, vtr_action)
+p.setParseAction(s, s_action)
 
 while True:
     src = raw_input("Gib etwas ein: ")
@@ -30,18 +50,8 @@ while True:
     try:
         semantic = g.next()
         print "Aha, ich verstehe:"
-        pprint.pprint(semantic, indent=2)
-        if semantic[0] == 'Satz' and semantic[1][0][0] == 'Quit':
-            break                                                 
+        print semantic        
     except StopIteration:
         print "Das verstehe ich leider nicht."
     
-        
-
-
-
-
-
-
-
 
