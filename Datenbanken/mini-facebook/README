@@ -8,5 +8,8 @@ person status sindBefreundet wallposts
 sqlite> .exit
 $
 
+Wenn auf der Kommandozeile nichts angegeben wird, kann auch mittels .backup eine Datei erzeugt werden.
+
+
 
  
